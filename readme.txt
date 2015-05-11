@@ -3,7 +3,7 @@ Contributors: gerrygooner
 Tags: rebuild, permalinks, posts, pages, attachments, database
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 
 Rebuild WordPress Permalinks.
@@ -37,6 +37,9 @@ Have any questions? Leave them in the comments!
 1. Rebuild Permalinks settings screen.
 
 == Changelog ==
+
+= 1.1 =
+* Replace custom function with remove_accents().
 
 = 1.0 =
 * Initial release.
